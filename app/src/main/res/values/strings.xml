@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Speed Dialer</string>
+    <string name="save_button">Save</string>
+    <string name="change_contact">Change Contact</string>
+    <string name="contact_name">Name</string>
+    <string name="contact_number">Number</string>
 </resources>
